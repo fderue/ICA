@@ -6,3 +6,4 @@ Implementation of the Cocktail Party Problem. Given M different recording of M m
 * libsnd
 
 
+<audio src="https://drive.google.com/open?id=0BzseqHb0aXvdZnYyY214cXk4djg/mixSignal0.mp3" controls preload></audio>
